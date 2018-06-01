@@ -12,7 +12,7 @@ First of all, Approximate Computing is received a lot of attention from both aca
 
 # Transistor Level
 
-# Good Conference for Approximate Computing 
+# Good Conferences for Approximate Computing 
 I list some of good Conferences and Journals for looking at up-to-date news, methodologies for Approximate Computing as bellows
 ## Design, Automation & Test in Europe Conference & Exhibition (DATE)
 ## Design Automation Conference (DAC)
