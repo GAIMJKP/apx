@@ -1,5 +1,7 @@
 # Introduction
-My name is Van-Phu HA, currently is Ph.D. student at CAIRN team, INRIA, Bretagne Atlantique, France. This is a hub for summarizing the survey of Approximate Computing techniques for several levels (Algorithmic, Functional, Operator and Number Representation Approximation) and several layers in a Embedded System. The classification of Approximate Computing methods ...
+My name is Van-Phu HA, currently is Ph.D. student at CAIRN team, INRIA, Bretagne Atlantique, France. This is a hub for summarizing the survey of Approximate Computing techniques for several levels (Algorithmic, Functional, Operator and Number Representation Approximation) and several layers in a Embedded System. The main contributions of this hub is to summarize, classify and update state-of-the-art Approximate Computing methods in the world. Moreover, it is also a guideline for newcomers in this field.
+
+The classification of Approximate Computing methods ...
 
 First of all, Approximate Computing is received a lot of attention from both academics and industries recently, even though the definition and its appearance was in quite a long time ago.
 # Application Level
