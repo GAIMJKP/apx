@@ -20,6 +20,7 @@ First of all, Approximate Computing is received a lot of attention from both aca
 
 # Good Conferences for Approximate Computing 
 I list some of good Conferences and Journals for looking at up-to-date news, methodologies for Approximate Computing as bellows
+## IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CADICS)
 ## Design, Automation & Test in Europe Conference & Exhibition (DATE)
 ## Design Automation Conference (DAC)
 ## Field-Programmable Custom Computing Machines (FCCM)
