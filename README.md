@@ -18,6 +18,9 @@ First of all, Approximate Computing is received a lot of attention from both aca
 
 # Transistor Level
 
+# Word Length Optimization (WLO)
+Multiple Word Length Optimization is considered as NP-hard 
+
 # Good Conferences for Approximate Computing 
 I list some of good Conferences and Journals for looking at up-to-date news, methodologies for Approximate Computing as bellows
 ## IEEE Transactions on Circuits and Systems I (TCAS I)
