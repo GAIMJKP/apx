@@ -22,16 +22,30 @@ First of all, Approximate Computing is received a lot of attention from both aca
 Multiple Word Length Optimization is considered as NP-hard 
 
 # Good Conferences for Approximate Computing 
-I list some of good Conferences and Journals for looking at up-to-date news, methodologies for Approximate Computing as bellows
-## IEEE Transactions on Circuits and Systems I (TCAS I)
-## IEEE Transactions on Circuits and Systems II (TCAS II)
-## IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CADICS)
-## Design, Automation & Test in Europe Conference & Exhibition (DATE)
-## Design Automation Conference (DAC)
-## Field-Programmable Custom Computing Machines (FCCM)
-## International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
-## International Conference on Computer Design (ICCD)
-## Microarchitecture (MICRO)
-## International Symposium on Computer Architecture (ISCA)
-## Parallel Architecture and Compilation Techniques (PACT)
-## IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+I list some of good Conferences and Journals for looking for up-to-date news, methodologies for Approximate Computing as bellows
+
+## Conferences
+
+| Conference name                                                              | Abbreviation | Rank | Deadline in 2019 |
+|------------------------------------------------------------------------------|--------------|------|------------------|
+| Design, Automation and Test in Europe                                        | DATE         | B    |                  |
+| Design Automation Conference                                                 | DAC          | A1   |                  |
+| ACM International Symposium on Computer Architecture                         | ISCA         | A1*  |                  |
+| IEEE International Symposium on Circuits and Systems                         | ISCAS        | A1   |                  |
+| IEEE/ACM International Conference on Computer-Aided Design                   | ICCAD        | A1   |                  |
+| International Symposium on Microarchitecture                                 | MICRO        | A1   |                  |
+| European Signal Processing Conference                                        | EUSIPCO      | B1   |                  |
+| IEEE International Symposium on Quality Electronic Design                    | ISQED        | B1   |                  |
+| International Conference on Computer Design                                  | ICCD         | A2   |                  |
+| International Symposium on Low Power Electronics and Design                  | ISLPED       | A1   |                  |
+| International Conference on Field-Programmable Logic and Applications        | FPL          | A2   |                  |
+| IEEE Symposium on Field-Programmable Custom Computing Machines               | FCCM         | A2   |                  |
+| International Conference on Hardware/Software Codesign and System Synthesis  | CODES+ISSS   | A2   |                  |
+| International Conference on Parallel Architecture and Compilation Techniques | PACT         | A2   |                  |
+| IEEE Computer Society Annual Symposium on VLSI                               | ISVLSI       | B1   |                  |
+
+## Journals
+### IEEE Transactions on Circuits and Systems I (TCAS I)
+### IEEE Transactions on Circuits and Systems II (TCAS II)
+### IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CADICS)
+
