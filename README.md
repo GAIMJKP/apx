@@ -28,13 +28,13 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 
 | Conference name                                                              | Abbreviation | Rank | Deadline in 2019 |
 |------------------------------------------------------------------------------|--------------|------|------------------|
-| Design, Automation and Test in Europe                                        | DATE         | B    |                  |
-| Design Automation Conference                                                 | DAC          | A1   |                  |
-| ACM International Symposium on Computer Architecture                         | ISCA         | A1*  |                  |
-| IEEE International Symposium on Circuits and Systems                         | ISCAS        | A1   |                  |
-| IEEE/ACM International Conference on Computer-Aided Design                   | ICCAD        | A1   |                  |
-| International Symposium on Microarchitecture                                 | MICRO        | A1   |                  |
-| European Signal Processing Conference                                        | EUSIPCO      | B1   |                  |
+| Design, Automation and Test in Europe                                        | DATE         | B    | 9/9/2019         |
+| Design Automation Conference                                                 | DAC          | A1+  | 20/11/2019	|
+| ACM International Symposium on Computer Architecture                         | ISCA         | A1+  | 7/12/2019        |
+| IEEE International Symposium on Circuits and Systems                         | ISCAS        | A1   | 26/5/2019        |
+| IEEE/ACM International Conference on Computer-Aided Design                   | ICCAD        | A1   | 1/4/2019         |
+| International Symposium on Microarchitecture                                 | MICRO        | A1   | 20/9/2019        |
+| European Signal Processing Conference                                        | EUSIPCO      | B1   | 18/2/2019        |
 | IEEE International Symposium on Quality Electronic Design                    | ISQED        | B1   |                  |
 | International Conference on Computer Design                                  | ICCD         | A2   |                  |
 | International Symposium on Low Power Electronics and Design                  | ISLPED       | A1   |                  |
