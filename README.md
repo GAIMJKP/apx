@@ -40,9 +40,10 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 | International Symposium on Low Power Electronics and Design                  | ISLPED       | A1   |                  |
 | International Conference on Field-Programmable Logic and Applications        | FPL          | A2   | 15/3/2019        |
 | IEEE Symposium on Field-Programmable Custom Computing Machines               | FCCM         | A2   |                  |
-| International Conference on Hardware/Software Codesign and System Synthesis  | CODES+ISSS   | A2   |                  |
+| International Conference on Hardware/Software Codesign and System Synthesis  | CODES+ISSS   | A2   | 7/6/2019         |
 | International Conference on Parallel Architecture and Compilation Techniques | PACT         | A2   |                  |
 | IEEE Computer Society Annual Symposium on VLSI                               | ISVLSI       | B1   |                  |
+| International Conference on Compilers, Architectures, and Synthesis for Embedded Systems | CASES | | 7/6/2019         |
 
 ## Journals
 ### IEEE Transactions on Circuits and Systems I (TCAS I)
