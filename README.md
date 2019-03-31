@@ -37,6 +37,7 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 | European Signal Processing Conference                                        | EUSIPCO      | B1   | 18/2/2019        |
 | IEEE International Symposium on Quality Electronic Design                    | ISQED        | B1   |                  |
 | International Conference on Computer Design                                  | ICCD         | A2   |                  |
+| IEEE International Symposium on Modeling Analysis and Simulation of Computer and Telecommunication Systems | MASCOTS | A | 26/4/2019 |
 | International Symposium on Low Power Electronics and Design                  | ISLPED       | A1   |                  |
 | International Conference on Field-Programmable Logic and Applications        | FPL          | A2   | 15/3/2019        |
 | IEEE Symposium on Field-Programmable Custom Computing Machines               | FCCM         | A2   |                  |
