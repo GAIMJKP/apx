@@ -26,26 +26,27 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 
 ## Conferences
 
-| Conference name                                                              | Abbreviation | Rank | Deadline in 2019 |Priority|
-|------------------------------------------------------------------------------|--------------|------|------------------| |
-| Design, Automation and Test in Europe                                        | DATE         | B    | 9/9/2019         |TOP|
-| Design Automation Conference                                                 | DAC          | A1+  | 20/11/2019	|TOP|
-| ACM International Symposium on Computer Architecture                         | ISCA         | A1+  | 7/12/2019        | |
-| IEEE International Symposium on Circuits and Systems                         | ISCAS        | A1   | 26/5/2019        | TOP|
-| IEEE/ACM International Conference on Computer-Aided Design                   | ICCAD        | A1   | 1/4/2019         | |
-| International Symposium on Microarchitecture                                 | MICRO        | A1   | 20/9/2019        | |
-| European Signal Processing Conference                                        | EUSIPCO      | B1   | 18/2/2019        | |
-| Asia and South Pacific Design Automation Conference 			       | ASP-DAC      | A2   | 30/6/2019        |TOP|
-| IEEE International Symposium on Quality Electronic Design                    | ISQED        | B1   |                  | |
-| International Conference on Computer Design                                  | ICCD         | A2   |                  | |
-| IEEE International Symposium on Modeling Analysis and Simulation of Computer and Telecommunication Systems | MASCOTS | A | 26/4/2019 | |
-| International Symposium on Low Power Electronics and Design                  | ISLPED       | A1   |                  | |
-| International Conference on Field-Programmable Logic and Applications        | FPL          | A2   | 15/3/2019        | |
-| IEEE Symposium on Field-Programmable Custom Computing Machines               | FCCM         | A2   |                  | |
-| International Conference on Hardware/Software Codesign and System Synthesis  | CODES+ISSS   | A2   | 7/6/2019         | |
-| International Conference on Parallel Architecture and Compilation Techniques | PACT         | A2   |                  | |
-| IEEE Computer Society Annual Symposium on VLSI                               | ISVLSI       | B1   |                  | |
-| International Conference on Compilers, Architectures, and Synthesis for Embedded Systems | CASES | | 7/6/2019         | |
+|                                                                                            |                |        |                    |          | 
+|--------------------------------------------------------------------------------------------|----------------|--------|--------------------|----------| 
+| Conference name                                                                            |  Abbreviation  |  Rank  |  Deadline in 2019  | Priority | 
+|  Design, Automation and Test in Europe                                                     |  DATE          |  B     |  9/9/2019          | TOP      | 
+|  Design Automation Conference                                                              |  DAC           |  A1+   |  20/11/2019        | TOP      | 
+|  ACM International Symposium on Computer Architecture                                      |  ISCA          |  A1+   |  7/12/2019         |          | 
+|  IEEE International Symposium on Circuits and Systems                                      |  ISCAS         |  A1    |  26/5/2019         |  TOP     | 
+|  IEEE/ACM International Conference on Computer-Aided Design                                |  ICCAD         |  A1    |  1/4/2019          |          | 
+|  International Symposium on Microarchitecture                                              |  MICRO         |  A1    |  20/9/2019         |          | 
+|  European Signal Processing Conference                                                     |  EUSIPCO       |  B1    |  18/2/2019         |          | 
+|  Asia and South Pacific Design Automation Conference                                       |  ASP-DAC       |  A2    |  30/6/2019         | TOP      | 
+|  IEEE International Symposium on Quality Electronic Design                                 |  ISQED         |  B1    |                    |          | 
+|  International Conference on Computer Design                                               |  ICCD          |  A2    |                    |          | 
+|  International Symposium on Low Power Electronics and Design                               |  ISLPED        |  A1    |                    |          | 
+|  International Conference on Field-Programmable Logic and Applications                     |  FPL           |  A2    |  15/3/2019         |          | 
+|  IEEE Symposium on Field-Programmable Custom Computing Machines                            |  FCCM          |  A2    |                    |          | 
+|  International Conference on Hardware/Software Codesign and System Synthesis               |  CODES+ISSS    |  A2    |  7/6/2019          |          | 
+|  International Conference on Parallel Architecture and Compilation Techniques              |  PACT          |  A2    |                    |          | 
+|  IEEE Computer Society Annual Symposium on VLSI                                            |  ISVLSI        |  B1    |                    |          | 
+|  International Conference on Compilers, Architectures, and Synthesis for Embedded Systems  |  CASES         |        |  7/6/2019          |          | 
+
 
 ## Journals
 ### IEEE Transactions on Circuits and Systems I (TCAS I)
