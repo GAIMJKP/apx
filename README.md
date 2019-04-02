@@ -35,6 +35,7 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 | IEEE/ACM International Conference on Computer-Aided Design                   | ICCAD        | A1   | 1/4/2019         |
 | International Symposium on Microarchitecture                                 | MICRO        | A1   | 20/9/2019        |
 | European Signal Processing Conference                                        | EUSIPCO      | B1   | 18/2/2019        |
+| Asia and South Pacific Design Automation Conference 			       | ASP-DAC      | A2   | 30/6/2019        |
 | IEEE International Symposium on Quality Electronic Design                    | ISQED        | B1   |                  |
 | International Conference on Computer Design                                  | ICCD         | A2   |                  |
 | IEEE International Symposium on Modeling Analysis and Simulation of Computer and Telecommunication Systems | MASCOTS | A | 26/4/2019 |
