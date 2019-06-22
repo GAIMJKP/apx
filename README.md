@@ -33,6 +33,7 @@ I list some of good Conferences and Journals for looking for up-to-date news, me
 |  Design Automation Conference                                                              |  DAC           |  A1+   |  20/11/2019        | TOP      | 
 |  ACM International Symposium on Computer Architecture                                      |  ISCA          |  A1+   |  7/12/2019         |          | 
 |  IEEE International Symposium on Circuits and Systems                                      |  ISCAS         |  A1    |  2019/10/15         |  TOP     | 
+|  IEEE International Workshop on Signal Processing Systems                                      |  SiPS         |      |  2020/04/15         |       | 
 |  IEEE/ACM International Conference on Computer-Aided Design                                |  ICCAD         |  A1    |  1/4/2019          |          | 
 |  International Symposium on Microarchitecture                                              |  MICRO         |  A1    |  20/9/2019         |          | 
 |  European Signal Processing Conference                                                     |  EUSIPCO       |  B1    |  18/2/2019         |          | 
